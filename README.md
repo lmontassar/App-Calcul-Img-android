@@ -43,6 +43,8 @@ The project follows the MVC (Model-View-Controller) architecture:
 
 ## Screenshots
 
+![TEST](https://github.com/user-attachments/assets/acbaeaa8-59a3-4a41-af5f-fa844b754e11)
+
 
 The application features a clean, user-friendly interface with:
 - Input fields for weight, height, and age
